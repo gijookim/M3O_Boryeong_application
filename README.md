@@ -3,4 +3,5 @@ This repository is an application of M3O Matlab toolbox for designing optimal op
 
 This code is used to generate dataset and consequently figures used in: Kim, Gi Joo and Kim, Young-Oh. "How does the coupling real-world policies with optimization models expand the practicality of solutions in reservoir operations problems?" currently submitted to Water Resources Management.
 
-The discription of the original M3O toolbox can be found from https://github.com/mxgiuliani00/M3O-Multi-Objective-Optimal-Operations.
+The description of the original M3O toolbox can be found from https://github.com/mxgiuliani00/M3O-Multi-Objective-Optimal-Operations.
+Please refer to the original Readme file for more detailed explanations regarding methods using M3O toolbox. 
