@@ -1,6 +1,14 @@
+### M3O application on Boryeong Reservoir
+This repository is an application of M3O Matlab toolbox for designing optimal operations of multipurpose water reservoir systems. This application of the M3O toolbox on Boryeong Dam located in South Korea aims to derive optimal solutions using DDP-Perfect, DDP-Average, SDP, and three EMODPS models each with different number of parameters and shapes of approximating functions. Then their performances are measured under discrete set of inflow series using K-fold Cross Validation method (K=4). Also, the effect of incorporation of a zone-based hedging rule is also explored during simulation.
+
+This code are used to generate dataset used in: Kim, Gi Joo and Kim, Young-Oh. "How does the coupling real-world policies with optimization models expand the practicality of solutions in reservoir operations problems?" currently submitted to Water Resources Management.
+
+Below is the discription of the original M3O toolbox, originally from https://github.com/mxgiuliani00/M3O-Multi-Objective-Optimal-Operations.
+
+
+
 ### M3O-Multi-Objective-Optimal-Operations
 M3O is a Matlab toolbox for designing the optimal operations of multipurpose water reservoir systems. M3O allows users to design Pareto optimal (or approximate) operating policies for managing water reservoir systems through several alternative state-of-the-art methods. Version 1.0 of M3O includes Deterministic and Stochastic Dynamic Programming, Implicit Stochastic Optimization, Sampling Stochastic Dynamic Programming, fitted Q-iteration, Evolutionary Multi-Objective Direct Policy Search, and Model Predictive Control. The toolbox is designed to be accessible to practitioners, researchers, and students, and to provide a fully commented and customizable code for more experienced users.
-
 
 ### List of methods available
 	- Deterministic Dynamic Programming (DDP);
