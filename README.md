@@ -12,7 +12,7 @@ Please refer to the original Readme file for more detailed explanations regardin
 
 
 
-# Copyright of the Original M3O Toolbox
+#### Copyright of the Original M3O Toolbox
 Copyright 2016 NRM group - Politecnico di Milano
 
 Developers: Matteo Giuliani, Yu Li, Andrea Cominola, Simona Denaro, Emanuele Mason, Andrea Castelletti, Francesca Pianosi, Daniela Anghileri, Stefano Galelli.
