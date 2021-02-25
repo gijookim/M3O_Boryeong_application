@@ -1,7 +1,7 @@
 ### M3O application on Boryeong Reservoir
 This repository is an application of M3O Matlab toolbox for designing optimal operations of multipurpose water reservoir systems. This application of the M3O toolbox on Boryeong Dam located in South Korea aims to derive optimal solutions using DDP-Perfect, DDP-Average, SDP, and three EMODPS models each with different number of parameters and shapes of approximating functions. Then their performances are measured under discrete set of inflow series using K-fold Cross Validation method (K=4). Also, the effect of incorporation of a zone-based hedging rule is also explored during simulation.
 
-In order to replicate the steps of the analysis on Boryeong Reservoir, download the data files from on the following Dataset on Mendeley Data (http://dx.doi.org/10.17632/9ntcdscwpd.1) and copy the files into /sim/data in this repository, which is currently empty.
+In order to replicate the steps of the analysis on Boryeong Reservoir, download the data files from on the following Dataset on Mendeley Data (http://dx.doi.org/10.17632/9ntcdscwpd.3) and copy the files into /sim/data in this repository, which is currently empty.
 After that, run the main_script.m file by carefully following the instructions given inside the code file. 
 
 This code is used to generate the dataset used to generate figures in: 
